@@ -229,7 +229,11 @@ For the package-based setup:
 ```bash
 java -cp out codedetective.CodeDetective
 ```
-
+for eg:
+Apply these commands on Powershell:
+PS C:\Users\SAMRUDDHI> cd C:\Users\SAMRUDDHI
+PS C:\Users\SAMRUDDHI> javac CodeDetective.java
+PS C:\Users\SAMRUDDHI> java CodeDetective
 ---
 
 ## 8. How to Use the Application
